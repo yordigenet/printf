@@ -1,4 +1,4 @@
-  This repository contains files on the printf function which is our very first team project in the ALX Software engineering program. 
+  This repository contains files on the printf function which; is our very first team project in the ALX Software engineering program. 
 
   **C – printf**
   ________________________________________
