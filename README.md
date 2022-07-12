@@ -1,9 +1,9 @@
   This repository contains files on the printf function which is our very first team project in the ALX Software engineering program. 
 
-  C – printf
+  **C – printf**
   ________________________________________
 
-  Description
+  **Description**
   ________________________________________
 
   This team project is part of the ALX Software engineering program and it all about writing our own. printf function.
@@ -11,12 +11,13 @@
   This project is all about collaboration (use git in a team setting), applying variadic functions in a wide range, use of arrays, function pointers and so on but most importantly managing a bunch of files and finding a smooth workflow.
   ________________________________________
 
-  Prototype
+  **Prototype**
   ________________________________________
  
   int _printf(const char *format, ...);
  
-  Usage
+  **Usage**
+ ________________________________________
 
 
   •	Prints a string to the standard output, according to a given format
@@ -34,7 +35,8 @@
   •	Call it this way: _printf("format string", arguments...) where format string can contain conversion specifiers and flags, along with regular characters.
 
 
-  Examples
+  **Examples**
+ ________________________________________
 
 
   •	_printf("Hello, World\n") prints "Hello, World", followed by a new line
@@ -46,7 +48,8 @@
   •	_printf("This is a number: %d", 98) prints "This is a number: 98"
 
 
-  Authors
+  **Authors**
+ ________________________________________
 
 
   •	Yordanos Girma -  yordigenet
